@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am ** Wangchunshu Zhou**, a second-year master student from the Department of Computer Science and Technology, Beihang University. I am a member of National Laboratory of Software Development Environment (NLSDE) and advised by Professor [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/).
+Hi~ I am **Wangchunshu Zhou**, a second-year master student from the Department of Computer Science and Technology, Beihang University. I am a member of National Laboratory of Software Development Environment (NLSDE) and advised by Professor [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/).
 
 A data-driven personal website
 ======
