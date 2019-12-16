@@ -10,7 +10,9 @@ redirect_from:
 
 Hi~ I am **Wangchunshu Zhou**, a second-year master student from the Department of Computer Science and Technology, Beihang University. Before that, I revieved by Bachelor degree from the Sino-French Engineering, Beihang University.
 
-I am a member of National Laboratory of Software Development Environment (NLSDE) and advised by Professor [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I am currently a research intern at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/). 
+I am a member of National Laboratory of Software Development Environment (NLSDE) and advised by Professor [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I am currently a research intern at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/) and advised Doctor Tao Ge.
+
+**I am am applying for (Summer) Research Intern Positions starting from May 2020 (Expected to end before Jan. 2021). I will apply for Ph.D. in NLP, Deep Learning, and related areas.**
 
 Research
 ======
