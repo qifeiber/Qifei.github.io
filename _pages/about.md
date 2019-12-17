@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am **Wangchunshu Zhou**, a second-year master student from the Department of Computer Science and Technology, Beihang University. Before that, I revieved by Bachelor degree from the Sino-French Engineering, Beihang University.
+Hi~ I am **Wangchunshu Zhou**, a second-year master student from the Department of Computer Science and Technology, Beihang University. Before that, I revieved by Bachelor degree from the [Sino-French Engineering School](http://http://ecpkn.buaa.edu.cn/), Beihang University.
 
 I am a member of National Laboratory of Software Development Environment (NLSDE) and advised by Professor [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I am currently a research intern at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/) and advised Doctor Tao Ge. Please check my [CV](/files/cv.pdf) for further information.
 
