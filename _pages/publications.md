@@ -11,6 +11,6 @@ author_profile: true
   The Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI, 2020) (Oral).
   
 ## 2019
-* BERT-based Lexical Substitution 
+* BERT-based Lexical Substitution  
   **Wangchunshu Zhou**, Tao Ge, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/), [Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/)  
   The 57th annual meeting of the Association for Computational Linguistics. (ACL, 2019)
