@@ -12,20 +12,18 @@ Hi~ I am **Wangchunshu Zhou**, a second-year master student from the Department 
 
 I am a member of National Laboratory of Software Development Environment (NLSDE) and advised by Professor [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I am currently a research intern at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/) and advised Doctor Tao Ge.
 
-**I am searching for a (Summer) Research Intern Positions starting from May 2020 (Expected to end before Jan. 2021). I will apply for Ph.D. in NLP, Deep Learning, and related areas. Feel free to drop me a line if interested!**
+**I am searching for a (Summer) Research Intern Positions starting from May 2020 (Expected to end before Jan. 2021). I will apply for Ph.D. in NLP, Deep Learning, and related areas starts Fall 2021. Feel free to drop me a line if interested!**
 
 Research
 ======
 My research interests include Deep Learning in NLP, Natural Language Generation (NLG), Reinforcement Learning and Generative Adversarial Nets in NLG, (Pretrained) Language Modeling and Transfer Learning, and Social Analysis.
 
-Getting started
+News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+\[2019.11]. Got one first-authored paper "**Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models**" accpeted as **Oral** presentation by **AAAI 2020**. See you at Firenze.
+\[2019.5\] Got one first-authored paper "**BERT-based Lexical Substitution**" accpeted by **ACL 2019**. See you at Firenze.
+\[2018.12\] Start my research internship at at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.  
+\[2018.8\] Start my Master study at NLSDE Lab in Beihang University, advised by Prof. Ke Xu 
 
 Site-wide configuration
 ------
