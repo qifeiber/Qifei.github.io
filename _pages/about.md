@@ -20,7 +20,7 @@ My research interests include Deep Learning in NLP, Natural Language Generation 
 
 News
 ======
-\[2019.11]. Got one first-authored paper "**Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models**" accpeted as **Oral** presentation by **AAAI 2020**. See you at Firenze.
+\[2019.11]. Got one first-authored paper "**Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models**" accpeted as **Oral** presentation by **AAAI 2020**. See you in New York.
 
 \[2019.5\] Got one first-authored paper "**BERT-based Lexical Substitution**" accpeted by **ACL 2019**. See you at Firenze.
 
