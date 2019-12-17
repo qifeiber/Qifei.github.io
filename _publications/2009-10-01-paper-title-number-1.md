@@ -1,7 +1,7 @@
 ---
 title: "BERT-based Lexical Substitution"
 collection: publications
-permalink: [PDF](http://michaelzhouwang.github.io/files/paper1.pdf)
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We proposed a novel lexical substitution based on pretrained masked lanuage models (e.g. BERT) to automatically propose substitute candidates and rank them without relying on external lexical resources.'
 date: 2019-07-27
 venue: 'The 57th annual meeting of the Association for Computational Linguistics. (ACL, 2019)'
