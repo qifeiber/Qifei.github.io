@@ -2,13 +2,11 @@
 title: "BERT-based Lexical Substitution"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: '**Wangchunshu Zhou**, Tao Ge, Ke Xu, Furu Wei, Ming Zhou
-
-We proposed a novel lexical substitution based on pretrained masked lanuage models (e.g. BERT) to automatically propose substitute candidates and rank them without relying on external lexical resources.'
+excerpt: 'We proposed a novel lexical substitution based on pretrained masked lanuage models (e.g. BERT) to automatically propose substitute candidates and rank them without relying on external lexical resources.'
 date: 2019-07-27
 venue: 'The 57th annual meeting of the Association for Computational Linguistics. (ACL, 2019)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: '**Wangchunshu Zhou**, Tao Ge, Ke Xu, Furu Wei, Ming Zhou. (2019). &quot;BERT-based Lexical Substitution.&quot; <i>ACL 2019</i>. 1(1).'
 ---
 
 **Wangchunshu Zhou**, Tao Ge, Ke Xu, Furu Wei, Ming Zhou
