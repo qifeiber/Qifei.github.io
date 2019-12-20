@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## 2020
-* Self-Adversarial Learning with Comparative Discrimination for Text Generation 
+* Self-Adversarial Learning with Comparative Discrimination for Text Generation   
   **Wangchunshu Zhou**, Tao Ge, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/), [Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/)  
   The Eighth International Conference on Learning Representations. (ICLR, 2020)
 
