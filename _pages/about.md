@@ -17,7 +17,7 @@ I will apply for Ph.D. in NLP, Deep Learning, and related areas starting from Fa
 
 Research
 ======
-My research interests include Deep Learning in NLP, Natural Language Generation (NLG), Reinforcement Learning and Generative Adversarial Nets in NLG, (Pretrained) Language Modeling and Transfer Learning, knowledge transfer and distillation, Emmergent Communication, and Social Analysis.
+My research interests include Deep Learning in NLP, Natural Language Generation (NLG), Commonsense Reasoning, Reinforcement Learning and Generative Adversarial Nets in NLG, (Pretrained) Language Modeling, Knowledge Transfer and Distillation, Emmergent Communication, and Social Analysis.
 
 News
 ======
