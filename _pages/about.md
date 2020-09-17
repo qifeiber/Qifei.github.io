@@ -18,11 +18,9 @@ Research
 ======
 My research interests are mainly applying Deep Learning for Natural Language Processing. I'm currently interested in **Natural language Generation**, including creative text generation applications, better NLG models, and better evaluation method for NLG systems. I am also interested in making large-scale pretrained language models more accessible to both academic and industry applications. To achieve this, I am actively working on **Efficient Pretrained Language Modeling** and **Transfer Learning for NLP**. This includes efficiency in terms of both the amount of **data** and **time** required for pretraining and fine-tuning pretrained langauge models, as well as the number of parameters and computational cost, which affects the memory requirement and latency for application of pretrained language models. 
 
-I am also interested in or working in the following subjects:<\br>
-&nbsp;Commonsense reasoning and knowledge-based reasoning.
-    
-&nbsp;Interpretability, explainability for NLP models, bias and fairness in NLP models, and their interactions.
-    
+I am also interested in or working in the following subjects:</br>
+&nbsp;Commonsense reasoning and knowledge-based reasoning.</br>
+&nbsp;Interpretability, explainability for NLP models, bias and fairness in NLP models, and their interactions.</br>
 &nbsp;Low resource NLP and Multilingual Pretrained Language Models.
 
 News
