@@ -23,10 +23,10 @@ author_profile: true
   *in Proc. of **EMNLP 2020 (Findings)***
 
 * Pseudo Bidirectional Decoding for Local Sequence Transduction</br>
-  **Wangchunshu Zhou**, Tao Ge, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/)
+  **Wangchunshu Zhou**, Tao Ge, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/)  
   *in Proc. of **EMNLP 2020 (Findings)***
 
-* CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning</br>  
+* CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning</br>
  [Bill Yuchen Lin](https://yuchenlin.xyz/), **Wangchunshu Zhou**, Ming Shen, Pei Zhou, Chandra Bhagavatula, Yejin Choi and Xiang Ren
   *in Proc. of **EMNLP 2020 (Findings)***
 
