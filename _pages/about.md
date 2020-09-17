@@ -12,12 +12,19 @@ Hi~ I am **Wangchunshu Zhou**, a second-year master student from the [Department
 
 I am a member of the National Laboratory of Software Development Environment (NLSDE) and advised by Professor [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I am currently a research intern at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/) and advised Doctor Tao Ge. Please check my [CV](/files/CV-2020.4.5.pdf) for further information.
 
-**I am searching for a (Summer) Research Intern Positions starting from May 2020 (Expected to end before Jan. 2021).  
-I will apply for Ph.D. in NLP, Deep Learning, and related areas starting from Fall 2021. Feel free to drop me a line if interested!**
+**I will apply for Ph.D. in NLP, Deep Learning, and related areas starting from Fall 2021. Feel free to drop me a line if interested!**
 
 Research
 ======
-My research interests include Deep Learning in NLP, Natural Language Generation (NLG), Commonsense Reasoning, Reinforcement Learning and Generative Adversarial Nets in NLG, (Pretrained) Language Modeling, Knowledge Transfer and Distillation, Emmergent Communication, and Social Analysis.
+My research interests are mainly applying Deep Learning for Natural Language Processing. I'm currently interested in **Natural language Generation**, including creative text generation applications, better NLG models, and better evaluation method for NLG systems. I am also interested in making large-scale pretrained language models more accessible to both academic and industry applications. To achieve this, I am actively working on **Efficient Pretrained Language Modeling** and **Transfer Learning for NLP**. This includes efficiency in terms of both the amount of **data** and **time** required for pretraining and fine-tuning pretrained langauge models, as well as the number of parameters and computational cost, which affects the memory requirement and latency for application of pretrained language models. 
+
+I am also interested in or working in the following subjects:
+
+    Commonsense reasoning and knowledge-based reasoning.
+    
+    Interpretability, explainability for NLP models, bias and fairness in NLP models, and their interactions.
+    
+    Low resource NLP and Multilingual Pretrained Language Models.
 
 News
 ======
