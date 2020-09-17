@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Peer Reviewed Publications (* indicates equal contribution)
+# Peer Reviewed Publications 
+(* indicates equal contribution)
 
 ## 2020
 
 * BERT-of-Theseus: Compressing BERT by Progressive Module Replacing</br>
-  [Canwen Xu](https://www.canwenxu.net/) **Wangchunshu Zhou\***, Tao Ge, [Furu Wei](http://mindio.org/), [Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/)  
+  [Canwen Xu](https://www.canwenxu.net/), **Wangchunshu Zhou\***, Tao Ge, [Furu Wei](http://mindio.org/), [Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/)  
   *in Proc. of **EMNLP 2020 (Findings)** *
 
 * Scheduled DropHead: A Regularization Method for Transformer Model</br>
