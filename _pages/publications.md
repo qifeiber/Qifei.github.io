@@ -27,7 +27,7 @@ author_profile: true
   *in Proc. of **EMNLP 2020 (Findings)***
 
 * CommonGen: A Constrained Text Generation Challenge for Generative Commonsense Reasoning</br>
- [Bill Yuchen Lin](https://yuchenlin.xyz/), **Wangchunshu Zhou**, Ming Shen, Pei Zhou, Chandra Bhagavatula, Yejin Choi and Xiang Ren
+ [Bill Yuchen Lin](https://yuchenlin.xyz/), **Wangchunshu Zhou**, Ming Shen, Pei Zhou, Chandra Bhagavatula, Yejin Choi and Xiang Ren  
   *in Proc. of **EMNLP 2020 (Findings)***
 
 * Self-Adversarial Learning with Comparative Discrimination for Text Generation   
