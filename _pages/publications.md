@@ -5,13 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Peer Reviewed Publications 
+# Publications 
 (* indicates equal contribution)
 
 ## 2020
 
+* BERT Loses Patience: Fast and Robust Inference with Early Exit  
+  **Wangchunshu Zhou**, [Canwen Xu](https://www.canwenxu.net/)\*, Tao Ge, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/)
+  *in Proc. of **NeurIPS 2020***
+  
+* Towards Interpretable Natural LanguageUnderstanding with Explanations as Latent Variables  
+**Wangchunshu Zhou**, Jinyi Hu\*, Hanlin Zhang\*, [Xiaodan Liang](https://lemondan.github.io/), Maosong Sun, [Chenyan Xiong](https://www.microsoft.com/en-us/research/people/cxiong/), [Jian Tang](https://jian-tang.com/)  
+  *in Proc. of **NeurIPS 2020***
+
 * BERT-of-Theseus: Compressing BERT by Progressive Module Replacing  
-  [Canwen Xu](https://www.canwenxu.net/), **Wangchunshu Zhou\***, Tao Ge, [Furu Wei](http://mindio.org/), [Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/)  
+  [Canwen Xu](https://www.canwenxu.net/), **Wangchunshu Zhou\***, Tao Ge, [Furu Wei](http://mindio.org/), [Ming Zhou](https://www.microsoft.com/en-us/research/people/mingzhou/) 
   *in Proc. of **EMNLP 2020***
 
 * Scheduled DropHead: A Regularization Method for Transformer Model  
