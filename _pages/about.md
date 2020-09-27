@@ -25,7 +25,9 @@ I am also interested in or working in the following subjects:
 
 News
 ======
-\[2020.9]. Got four first-authored paper accepted to EMNLP 2020 (1 main conference and 3 findings(with average score of 3.67)) and one second author paper accepted to Finding of EMNLP 2020.
+\[2020.9]. Got two first-authored paper accepted to NeurIPS 2020. Thanks to all my collaborators!
+
+\[2020.9]. Got four first-authored paper accepted to EMNLP 2020 (1 main conference and 3 findings(with average score of 3.67)) and one second author paper accepted to Finding of EMNLP 2020. Thanks to all my collaborators!
 
 \[2019.12]. Got one first-authored paper "**Self-Adversarial Learning with Comparative Discrimination for Text Generation**" accepted by **ICLR 2020**. See you in Addis Ababa.  
 
