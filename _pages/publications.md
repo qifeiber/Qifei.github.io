@@ -11,7 +11,7 @@ author_profile: true
 ## 2020
 
 * BERT Loses Patience: Fast and Robust Inference with Early Exit  
-  **Wangchunshu Zhou**, [Canwen Xu](https://www.canwenxu.net/)\*, Tao Ge, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/)
+  **Wangchunshu Zhou**, [Canwen Xu](https://www.canwenxu.net/)\*, Tao Ge, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/)  
   *in Proc. of **NeurIPS 2020***
   
 * Towards Interpretable Natural LanguageUnderstanding with Explanations as Latent Variables  
