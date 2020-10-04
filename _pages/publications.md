@@ -11,7 +11,7 @@ author_profile: true
 ## 2020
 
 * Connecting the Dots Between Fact Verification and Fake News Detection  
-  Qifei Li\*, **Wangchunshu Zhou\***,  
+  Qifei Li\*, **Wangchunshu Zhou\***  
   *in Proc. of **COLING 2020***  
 
 * BERT Loses Patience: Fast and Robust Inference with Early Exit  
