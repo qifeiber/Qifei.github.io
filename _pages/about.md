@@ -33,7 +33,7 @@ News
 
 \[2019.12]. Got one first-authored paper "**Self-Adversarial Learning with Comparative Discrimination for Text Generation**" accepted by **ICLR 2020**. See you in Addis Ababa.  
 
-\[2019.11]. Got one first-authored paper "**Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models**" accepted as **Oral** presentation by **AAAI 2020**. See you in New York.   
+\[2019.11]. Got one first-authored paper "**Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models**" accepted by **AAAI 2020**. See you in New York.   
 
 \[2019.5\] Got one first-authored paper "**BERT-based Lexical Substitution**" accepted by **ACL 2019**. See you in Firenze.  
 
