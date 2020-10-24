@@ -12,7 +12,7 @@ author_profile: true
 
 * Connecting the Dots Between Fact Verification and Fake News Detection  
   Qifei Li\*, **Wangchunshu Zhou\***  
-  *in Proc. of **COLING 2020***  
+  *in Proc. of **COLING 2020 (Oral)***  
 
 * BERT Loses Patience: Fast and Robust Inference with Early Exit  
   **Wangchunshu Zhou\***, [Canwen Xu](https://www.canwenxu.net/)\*, Tao Ge, [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Furu Wei](http://mindio.org/)  
