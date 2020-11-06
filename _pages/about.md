@@ -20,6 +20,7 @@ My research interests are mainly applying Deep Learning for Natural Language Pro
 
 I am also interested in or working in the following subjects:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Commonsense reasoning and knowledge-based reasoning.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Robust natural language understanding and generation for OOD samples and reducing spurious dataset biases for NLP models.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interpretability, explainability for NLP models, bias and fairness in NLP models, and their interactions.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Low resource NLP and Multilingual Pretrained Language Models.**
 
