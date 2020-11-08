@@ -10,7 +10,7 @@ redirect_from:
 
 Hi~ I am **Wangchunshu Zhou**, a second-year master student from the [Department of Computer Science and Technology](http://scse.buaa.edu.cn/), Beihang University. Before that, I received my Bachelor's degree from the [Sino-French Engineering School](http://ecpkn.buaa.edu.cn/), Beihang University.
 
-I am a member of the National Laboratory of Software Development Environment (NLSDE) and advised by Professor [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I am currently a research intern at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/) and advised Doctor Tao Ge. I've also visited [MILA](https://mila.quebec/) and [USC](https://www.isi.edu/) where I worked with [Jian Tang](https://jian-tang.com/) and [Xiang Ren](http://ink-ron.usc.edu/xiangren/) respectively. Please check my [CV](/files/CV-2020.4.5.pdf) for further information.
+I am a member of the National Laboratory of Software Development Environment (NLSDE) and advised by Professor [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/). I am currently a research intern at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/) and advised Doctor Tao Ge. I've also visited [MILA](https://mila.quebec/) and [USC](https://www.isi.edu/) where I was fortunate to work with [Jian Tang](https://jian-tang.com/) and [Xiang Ren](http://ink-ron.usc.edu/xiangren/) respectively. Please check my [CV](/files/CV-2020.4.5.pdf) for further information.
 
 **I will apply for Ph.D. in NLP, Deep Learning, and related areas starting from Fall 2021. Feel free to drop me a line if interested!**
 
