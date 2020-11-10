@@ -19,7 +19,7 @@ Research
 My primary research goal is to apply Deep Learning for Natural Language Processing and develop **Language Technology for All**. To achievethis goal and make language technology accessible in most people’s lives, I identify two major research topics that I’m interested in: **efficiency** and **trustworthiness** of NLP models. Efficiency involves both the amount of **computation** and **data** required for (pre-)training and using NLP models. Trustworthiness involves the **interpretability**, **fairness**, and **robustness** with respect to adversarial attacks and out-of-distribution samples.  
 
 Specifically I am interested in the following research topics:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Natural language generation, creative text generation, evaluation for NLG models.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Natural language generation, creative text generation, evaluation for NLG models.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Commonsense reasoning and knowledge-based reasoning.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Robust NLP models for OOD samples and reducing spurious dataset biases.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interpretability, explainability, biases, and fairness for NLP models.**  
