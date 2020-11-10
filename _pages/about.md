@@ -16,13 +16,13 @@ I am a member of the National Laboratory of Software Development Environment (NL
 
 Research
 ======
-My research interests are mainly applying Deep Learning for Natural Language Processing. I'm currently interested in **Natural language Generation**, including creative text generation applications, better NLG models, and better evaluation method for NLG systems. I am also interested in making large-scale pretrained language models more accessible to both academic and industry applications. To achieve this, I am actively working on **Efficient Pretrained Language Modeling** and **Transfer Learning for NLP**. This includes efficiency in terms of both the amount of **data** and **time** required for pretraining and fine-tuning pretrained langauge models, as well as the number of parameters and computational cost, which affects the memory requirement and latency for application of pretrained language models. 
+My primary research goal is to apply Deep Learning for Natural Language Processing and develop **Language Technology for All**. To achievethis goal and make language technology accessible in most people’s lives, I identify two major research topics that I’m interested in: **efficiency** and **trustworthiness** of NLP models. Efficiency involves both the amount of **computation** and **data** required for (pre-)training and using NLP models. Trustworthiness involves the **interpretability**, **fairness**, and **robustness** with respect to adversarial attacks and out-of-distribution samples.  
 
-I am also interested in or working in the following subjects:  
+Specifically I am interested in the following research topics:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Commonsense reasoning and knowledge-based reasoning.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Robust natural language understanding and generation for OOD samples and reducing spurious dataset biases for NLP models.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interpretability, explainability for NLP models, bias and fairness in NLP models, and their interactions.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Low resource NLP and Multilingual Pretrained Language Models.**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Robustness of NLP/NLG models for OOD samples and reducing spurious dataset biases.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interpretability, explainability, biases, and fairness for NLP models.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Green NLP, Low resource NLP, and Learning NLP models from high-level supervision**
 
 News
 ======
