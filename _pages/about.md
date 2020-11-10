@@ -24,7 +24,8 @@ Specifically I am interested in the following research topics:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Robust NLP models for OOD samples and reducing spurious dataset biases.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Interpretability, explainability, biases, and fairness for NLP models.**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Green NLP, Low resource NLP, and Learning NLP models from high-level supervision**  
-I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.
+I am open to academic collaborations and please drop me an email if you are interested in collaborating with me.  
+
 News
 ======
 \[2020.9]. Got one first-authored paper accepted to **COLING 2020**. Thanks and Congrats to Qifei!
