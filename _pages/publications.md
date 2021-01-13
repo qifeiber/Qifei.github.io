@@ -10,7 +10,7 @@ author_profile: true
 ## 2021
 * Pre-training Text-to-Text Transformers for Concept-centric Common Sense  
   **Wangchunshu Zhou\***, Dong-Ho Lee\*, Ravi Selvam, Seyeon Lee, Bill Yuchen Lin, Xiang Ren   
-  ***submitted to** **ICLR 2021**, previous version accepted to NeurIPS 2020 Workshop on Self-Supervised Learning*  
+  *in Proc. of **ICLR 2021***  
   
 ## 2020
 
