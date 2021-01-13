@@ -28,6 +28,8 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 News
 ======
+\[2021.1]. Got one first-authored paper accepted to **ICLR 2021**. Thanks to all my collaborators!
+
 \[2020.9]. Got one first-authored paper accepted to **COLING 2020**. Thanks and Congrats to Qifei!
 
 \[2020.9]. Got two first-authored paper accepted to **NeurIPS 2020**. Thanks to all my collaborators!
