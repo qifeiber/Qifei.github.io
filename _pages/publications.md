@@ -8,6 +8,10 @@ author_profile: true
 (* indicates equal contribution)
 
 ## 2021
+* Blow the Dog Whistle: A Chinese Dataset for Cant Understandingwith Common Sense and World Knowledge   
+  Canwen Xu\*, **Wangchunshu Zhou\***, Tao Ge, [Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/), [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), [Furu Wei](http://mindio.org/)  
+  *in Proc. of **NAACL 2021***  
+
 * Pre-training Text-to-Text Transformers for Concept-centric Common Sense  
   **Wangchunshu Zhou\***, Dong-Ho Lee\*, Ravi Selvam, Seyeon Lee, Bill Yuchen Lin, Xiang Ren   
   *in Proc. of **ICLR 2021***  
