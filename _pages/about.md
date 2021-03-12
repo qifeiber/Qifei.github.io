@@ -28,19 +28,21 @@ I am open to academic collaborations and please drop me an email if you are inte
 
 News
 ======
-\[2021.1]. Got one first-authored paper accepted to **ICLR 2021**. Thanks to all my collaborators!
+\[2021.3]. Got one paper accepted to **NAACL 2021**. Thanks to all my collaborators!
 
-\[2020.9]. Got one first-authored paper accepted to **COLING 2020**. Thanks and Congrats to Qifei!
+\[2021.1]. Got one paper accepted to **ICLR 2021**. Thanks to all my collaborators!
 
-\[2020.9]. Got two first-authored paper accepted to **NeurIPS 2020**. Thanks to all my collaborators!
+\[2020.9]. Got one paper accepted to **COLING 2020**. Thanks and Congrats to Qifei!
 
-\[2020.9]. Got four first-authored paper accepted to **EMNLP 2020** (1 main conference and 3 findings(with average score of 3.67)) and one second author paper accepted to Finding of EMNLP 2020. Thanks to all my collaborators!
+\[2020.9]. Got two paper accepted to **NeurIPS 2020**. Thanks to all my collaborators!
 
-\[2019.12]. Got one first-authored paper "**Self-Adversarial Learning with Comparative Discrimination for Text Generation**" accepted by **ICLR 2020**. See you in Addis Ababa.  
+\[2020.9]. Got five first-authored paper accepted to **EMNLP 2020** (1 in main conference and 4 in findings) Thanks to all my collaborators!
 
-\[2019.11]. Got one first-authored paper "**Learning to Compare for Better Training and Evaluation of Open Domain Text Generation Models**" accepted by **AAAI 2020**. See you in New York.   
+\[2019.12]. Got one paper accepted by **ICLR 2020**. See you in Addis Ababa.  
 
-\[2019.5\] Got one first-authored paper "**BERT-based Lexical Substitution**" accepted by **ACL 2019**. See you in Firenze.  
+\[2019.11]. Got one paper accepted by **AAAI 2020**. See you in New York.   
+
+\[2019.5\] Got one paper accepted by **ACL 2019**. See you in Firenze.  
 
 \[2018.12\] Start my research internship at at [NLC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Tao Ge.  
 
