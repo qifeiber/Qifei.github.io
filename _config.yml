@@ -310,3 +310,7 @@ compress_html:
   ignore:
     envs: development
     
+leancloud:
+  enable: true
+  app_id: j8BAEOBnCzKp02QVmkWc4010-gzGzoHsz
+  app_key: k7sgmWzSh5YAIkOS7SIAMV6J
