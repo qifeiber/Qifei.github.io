@@ -16,6 +16,16 @@ Research
 ======
 I am generally interested in Natural Language Processing, Recommendation Systems, Deep Learning, and their applications. 
 
+Publications
+======
+* Learning to Detect Persona for Dialogue Personalization without Explicit Persona Description  
+  Wangchunshu Zhou\*, **Qifei Li\***, Chenle Li
+  *in Proc. of **ACL 2021***  
+
+* onnecting the Dots Between Fact Verification and Fake News Detection    
+  **Qifei Li\***, Wangchunshu Zhou\*
+  *in Proc. of **Coling 2020***  
+  
 News
 ======
 \[2021.5]. Got one paper accepted to **ACL 2021**. Thanks to all my collaborators!
