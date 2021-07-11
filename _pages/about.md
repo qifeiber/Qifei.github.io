@@ -25,14 +25,6 @@ Publications
 * onnecting the Dots Between Fact Verification and Fake News Detection    
   **Qifei Li\***, Wangchunshu Zhou\*
   *in Proc. of **Coling 2020***  
-  
-News
-======
-\[2021.5]. Got one paper accepted to **ACL 2021**. Thanks to all my collaborators!
-
-\[2021.1] Start my research internship at at [SC Group @ Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/natural-language-computing/), advised by Dr. Fangzhao Wu.  
-
-\[2020.9]. Got one paper accepted to **COLING 2020**. Thanks and Congrats to Chunshu!
 
 Personal information
 ------
